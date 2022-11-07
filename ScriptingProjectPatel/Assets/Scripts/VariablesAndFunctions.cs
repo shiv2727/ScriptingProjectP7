@@ -1,4 +1,4 @@
-xusing UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class VariablesAndFunctions : MonoBehaviour
